@@ -1,7 +1,7 @@
 
 public class Sum {
-	public static int sum(int a, int b) {
-		return a + b;
+	public static int sum(int w, int b) {
+		return w + b;
 	}
 
 	public static int sum(int i, int j, int k) {
